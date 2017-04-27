@@ -16,8 +16,8 @@ void euler::ProblemSelection() {
   problems["#6: Sum Square Difference"] = P_6;
   problems["#7: 10001st Prime"] = P_7;
   problems["#8: Largest Product in a Series"] = P_8;
-  problems["#9: Special Pythagorean Triplet"] = P_3;
-  problems["#10: Summation of Primes"] = P_3;
+  problems["#9: Special Pythagorean Triplet"] = P_9;
+  problems["#10: Summation of Primes"] = P_10;
   std::vector<std::string> options;
   for (std::map<std::string, void (*)()>::iterator it = problems.begin();
        it != problems.end(); ++it) {
