@@ -15,7 +15,7 @@ void euler::ProblemSelection() {
   problems["#5: Smallest Multiple"] = P_5;
   problems["#6: Sum Square Difference"] = P_6;
   problems["#7: 10001st Prime"] = P_7;
-  problems["#8: Largest Product in a Series"] = P_3;
+  problems["#8: Largest Product in a Series"] = P_8;
   problems["#9: Special Pythagorean Triplet"] = P_3;
   problems["#10: Summation of Primes"] = P_3;
   std::vector<std::string> options;
